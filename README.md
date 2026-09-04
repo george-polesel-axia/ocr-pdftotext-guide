@@ -1,5 +1,7 @@
 # pdftotext API
 
+[![CI](https://github.com/george-polesel-axia/ocr-pdftotext-guide/actions/workflows/ci.yml/badge.svg)](https://github.com/george-polesel-axia/ocr-pdftotext-guide/actions/workflows/ci.yml)
+
 A minimal REST API for extracting the existing text layer from digital PDF
 documents with the `pdftotext` command-line utility from
 [Poppler](https://poppler.freedesktop.org/).
